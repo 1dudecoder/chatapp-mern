@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+
+CHAT-APP BUILD USING MERN STACK 
+
 ![Screenshot (337)](https://user-images.githubusercontent.com/51919649/119046535-73199e80-b9da-11eb-88fb-3bfd50906a70.png)
 
 
